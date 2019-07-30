@@ -1,3 +1,2 @@
 # practise
-This is only for some testing
-asdf
+This is only for testing projects only.
