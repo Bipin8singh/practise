@@ -1,2 +1,2 @@
 # practise
-This is for testing projects only.
+This is for testing projects only
